@@ -63,7 +63,7 @@ before calling the `:colorscheme` command:
 
     let g:wtf_pedantic_guicolors = 1
 
-## Thanks
+## Acknowledgement
 
 Thanks to [Ben Ridder](https://github.com/brridder) for testing changes,
 providing great feedback, and stoically dealing with my penchant for amended
