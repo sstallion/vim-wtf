@@ -28,7 +28,7 @@ call wtf#highlight({
       \   'guifg'  : wtf#gui_brightblue,
       \ },
       \ 'Normal': {
-      \   'ctermfg': wtf#cterm_gray, 'ctermbg': wtf#cterm_black,
+      \   'ctermfg': wtf#cterm_gray, 'ctermbg': 'NONE',
       \   'guifg'  : wtf#gui_gray,   'guibg'  : wtf#gui_black,
       \ },
       \ 'ErrorMsg': {
